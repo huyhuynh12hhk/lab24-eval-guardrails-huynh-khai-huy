@@ -1,0 +1,49 @@
+question,answer,accuracy,relevance,conciseness,helpfulness,overall
+Công ty ABC Việt Nam được thành lập khi nào?,Công ty Cổ phần Công nghệ ABC Việt Nam được thành lập vào ngày 15 tháng 03 năm 2015.,5,5,5,5,5.0
+"Can you provide details about the location of the headquarters of Công ty Cổ phần Công nghệ ABC Việt Nam, specifically mentioning the Tòa nhà Bitexco Financial Tower?","Địa chỉ trụ sở chính của Công ty Cổ phần Công nghệ ABC Việt Nam là Tầng 10, Tòa nhà Bitexco Financial Tower, 2 Hải Triều, Quận 1, TP. Hồ Chí Minh.",5,5,5,5,5.0
+What accounting standards are used in financial reporting in Việt Nam?,Báo cáo tài chính được lập theo Chuẩn mực Kế toán Việt Nam (VAS) và các quy định của pháp luật Việt Nam có liên quan.,5,5,5,5,5.0
+"What are the key financial indicators for Tập đoàn Công nghệ XYZ International in 2023, and how do they reflect the company's performance?",Không tìm thấy thông tin trong tài liệu.,1,1,5,1,2.0
+Báo cáo tài chính của công ty phản ánh tình hình tài chính tại ngày 31/12/2023 như thế nào?,Báo cáo tài chính phản ánh trung thực và hợp lý tình hình tài chính của Công ty tại ngày 31/12/2023.,5,5,5,4,4.75
+Ai là kiểm toán viên trong báo cáo tài chính của Công ty?,"Kiểm toán viên trong báo cáo tài chính của Công ty là Nguyễn Văn An, với chứng chỉ kiểm toán viên số 2345/KTV.",5,5,5,5,5.0
+"Nghị định này có áp dụng cho cơ quan, tổ chức, cá nhân nào ở Việt Nam không?","Có, nghị định này áp dụng cho cơ quan, tổ chức, cá nhân Việt Nam.",5,5,5,5,5.0
+"Cơ quan, tổ chức, cá nhân nào ở Việt Nam phải tuân thủ quy định về bảo vệ dữ liệu cá nhân?","Cơ quan, tổ chức, cá nhân Việt Nam phải tuân thủ quy định về bảo vệ dữ liệu cá nhân.",5,5,5,4,4.75
+Sự đồng ý là gì trong bối cảnh xử lý dữ liệu cá nhân?,"Sự đồng ý trong bối cảnh xử lý dữ liệu cá nhân là sự thể hiện rõ ràng, tự nguyện, cụ thể, có thông tin và không mơ hồ của chủ thể dữ liệu về việc cho phép xử lý dữ liệu cá nhân của họ.",5,5,5,5,5.0
+Bên Xử lý dữ liệu cá nhân là gì và vai trò của nó trong việc xử lý dữ liệu?,"Bên Xử lý dữ liệu cá nhân là tổ chức, cá nhân thực hiện việc xử lý dữ liệu thay mặt cho Bên Kiểm soát dữ liệu, thông qua một hợp đồng hoặc thỏa thuận. Vai trò của nó là thực hiện các hoạt động xử lý dữ liệu theo chỉ đạo của Bên Kiểm soát dữ liệu.",5,5,5,5,5.0
+Bên Kiểm soát dữ liệu cá nhân có nghĩa vụ gì đối với chủ thể dữ liệu?,"Bên Kiểm soát dữ liệu cá nhân có nghĩa vụ thực hiện các quy định tại Nghị định này và pháp luật có liên quan đến bảo vệ dữ liệu cá nhân, bao gồm việc cung cấp dữ liệu cá nhân cho chủ thể dữ liệu khi được yêu cầu, trừ trường hợp luật có quy định khác.",5,5,5,5,5.0
+Nghị định quy định những quyền gì của chủ thể dữ liệu?,"Nghị định quy định các quyền sau của chủ thể dữ liệu:
+
+1. Quyền đồng ý: Chủ thể dữ liệu có quyền đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá nhân của mình.
+2. Quyền truy cập: Chủ thể dữ liệu có quyền truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu cá nhân.
+3. Quyền được biết: Chủ thể dữ liệu có quyền biết về hoạt động xử lý dữ liệu cá nhân của mình.
+4. Quyền yêu cầu: Chủ thể dữ liệu có quyền yêu cầu Bên Kiểm soát dữ liệu cá nhân cung cấp dữ liệu cá nhân của mình.
+5. Quyền phản đối xử lý dữ liệu: Chủ thể dữ liệu có quyền phản đối việc xử lý dữ liệu cá nhân.",5,5,4,5,4.75
+Điều 11 nói gì về việc xử lý dữ liệu cá nhân?,"Điều 11 quy định rằng dữ liệu cá nhân được xử lý theo quy định của pháp luật, chủ thể dữ liệu được biết về việc xử lý dữ liệu của mình, và dữ liệu chỉ được xử lý đúng với mục đích đã xác định.",5,5,5,5,5.0
+Điều 13 nói về cái gì trong việc xử lý dữ liệu cá nhân nhạy cảm?,"Điều 13 quy định rằng Bên Kiểm soát và Bên Xử lý dữ liệu cá nhân chỉ được xử lý dữ liệu cá nhân nhạy cảm sau khi có sự đồng ý của chủ thể dữ liệu, trừ các trường hợp đặc biệt được quy định tại Điều 17. Dữ liệu cá nhân nhạy cảm phải được thông báo cho chủ thể biết và phải áp dụng các biện pháp bảo vệ cao hơn so với dữ liệu cá nhân thông thường.",5,5,4,5,4.75
+What are the responsibilities of the data controller regarding personal data protection and the notification process to Bộ Công an in case of a data breach?,"Bên Kiểm soát dữ liệu cá nhân có trách nhiệm thực hiện các quy định tại Nghị định số 13/2023 và pháp luật liên quan đến bảo vệ dữ liệu cá nhân. Trong trường hợp xảy ra vi phạm dữ liệu cá nhân, Bên Kiểm soát phải thông báo cho Bộ Công an trong vòng 72 giờ kể từ khi phát hiện vi phạm và thực hiện các biện pháp khắc phục ngay.",5,5,5,5,5.0
+What are the responsibilities of Bên Kiểm soát dữ liệu cá nhân according to the regulations on personal data protection?,"Bên Kiểm soát dữ liệu cá nhân có trách nhiệm thực hiện các quy định tại Nghị định này và pháp luật liên quan đến bảo vệ dữ liệu cá nhân, bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu hoặc người khác, đáp ứng yêu cầu vì lợi ích công cộng, và thực hiện quyền hạn nhà nước được giao.",5,5,4,5,4.75
+What is the role of Bộ Công an in the transfer of personal data abroad?,Bộ Công an có vai trò đánh giá hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài trong vòng 60 ngày làm việc và thông báo kết quả cho Bên Kiểm soát.,5,5,5,5,5.0
+What are the requirements for transferring personal data of Vietnamese citizens abroad according to Cục An ninh mạng?,"Các yêu cầu để chuyển dữ liệu cá nhân của công dân Việt Nam ra nước ngoài bao gồm: 
+
+1. Chủ thể dữ liệu phải được thông báo và đồng ý về việc chuyển dữ liệu.
+2. Hoạt động chuyển dữ liệu phải thực hiện đúng mục đích đã đồng ý.
+3. Cần lập hồ sơ đánh giá tác động và nộp cho Bộ Công an sau lần chuyển đầu tiên.",5,5,5,5,5.0
+Bên Xử lý dữ liệu là gì và vai trò của nó trong bảo vệ dữ liệu?,"Bên Xử lý dữ liệu là tổ chức, cá nhân thực hiện việc xử lý dữ liệu thay mặt cho Bên Kiểm soát dữ liệu thông qua hợp đồng hoặc thỏa thuận. Vai trò của Bên Xử lý dữ liệu trong bảo vệ dữ liệu là thực hiện các hoạt động xử lý dữ liệu cá nhân theo chỉ đạo của Bên Kiểm soát, đảm bảo tuân thủ các quy định về bảo vệ dữ liệu cá nhân.",5,5,5,5,5.0
+Bộ Công an có vai trò gì trong bảo vệ dữ liệu?,Bộ Công an có vai trò nhận thông báo vi phạm dữ liệu cá nhân từ Bên Kiểm soát dữ liệu cá nhân trong vòng 72 giờ và đánh giá hồ sơ chuyển dữ liệu cá nhân ra nước ngoài trong vòng 60 ngày làm việc.,5,5,5,5,5.0
+"What are the responsibilities of organizations and individuals regarding the protection of personal data as outlined in the regulations, and how do law enforcement agencies interact with this data?",Không tìm thấy thông tin trong tài liệu.,1,1,5,1,2.0
+Quy định pháp luật nào liên quan đến việc xử lý dữ liệu cá nhân và các nghĩa vụ của bên kiểm soát dữ liệu cá nhân là gì?,Không tìm thấy thông tin trong tài liệu.,1,1,5,1,2.0
+Quyền phản đối xử lý dữ liệu có liên quan như thế nào đến sự đồng ý của chủ thể dữ liệu trong các quy định về bảo vệ dữ liệu cá nhân?,"Quyền phản đối xử lý dữ liệu cho phép chủ thể dữ liệu không đồng ý với việc xử lý dữ liệu cá nhân của mình, trong khi quyền đồng ý yêu cầu chủ thể dữ liệu phải đồng ý trước khi dữ liệu được xử lý. Hai quyền này liên quan chặt chẽ với nhau, vì quyền phản đối có thể được thực hiện khi chủ thể dữ liệu không còn muốn cho phép xử lý dữ liệu cá nhân của mình, ngay cả khi trước đó đã đồng ý.",5,5,4,5,4.75
+Làm thế nào các cơ quan thực thi pháp luật có thể ảnh hưởng đến việc bảo vệ dữ liệu cá nhân theo quy định trong Nghị định này?,Không tìm thấy thông tin trong tài liệu.,1,1,5,1,2.0
+Dữ liệu cá nhân nhạy cảm và dữ liệu cá nhân trẻ em có những quy định gì trong Nghị định về bảo vệ dữ liệu cá nhân?,"Dữ liệu cá nhân nhạy cảm phải được áp dụng các biện pháp bảo vệ cao hơn so với dữ liệu cá nhân thông thường và chỉ được xử lý sau khi có sự đồng ý của chủ thể dữ liệu, trừ các trường hợp quy định tại Điều 17. Dữ liệu cá nhân trẻ em cũng nằm trong danh sách các loại dữ liệu nhạy cảm cần được bảo vệ.",5,5,5,5,5.0
+Cơ quan thực thi pháp luật có trách nhiệm gì trong việc bảo vệ dữ liệu cá nhân theo quy định của Nghị định này?,Không tìm thấy thông tin trong tài liệu.,1,1,5,1,2.0
+Chuyển dữ liệu cá nhân ra nước ngoài phải đáp ứng điều kiện gì và mục đích chuyển dữ liệu là gì theo quy định?,"Chuyển dữ liệu cá nhân ra nước ngoài phải đáp ứng các điều kiện sau: 
+
+1. Chủ thể dữ liệu đã được thông báo và đồng ý về việc chuyển dữ liệu cá nhân của mình ra nước ngoài.
+2. Hoạt động chuyển dữ liệu phải thực hiện đúng với mục đích đã được chủ thể dữ liệu đồng ý.
+3. Bên Kiểm soát dữ liệu cá nhân phải lập và lưu giữ hồ sơ đánh giá tác động chuyển dữ liệu.
+
+Mục đích chuyển dữ liệu là phải đúng với mục đích mà chủ thể dữ liệu đã đồng ý.",5,5,4,5,4.75
+"What rights does a data subject have regarding their personal data, specifically in terms of consent and the right to object to data processing?","Chủ thể dữ liệu có quyền đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá nhân của mình và có quyền rút lại sự đồng ý. Ngoài ra, họ cũng có quyền khiếu nại, tố cáo, khởi kiện liên quan đến việc xử lý dữ liệu cá nhân.",4,5,4,4,4.25
+"What types of sensitive personal data are included in the regulations, and how does the treatment of children's personal data differ from other sensitive data?","Các loại dữ liệu cá nhân nhạy cảm bao gồm: thông tin về đời sống riêng tư, tôn giáo, hồ sơ bệnh án và sức khỏe, nguồn gốc chủng tộc, dân tộc, đặc điểm di truyền, thuộc tính sinh học riêng, đời sống tình dục, dữ liệu tội phạm, thông tin khách hàng tổ chức tín dụng, dữ liệu vị trí định vị, và dữ liệu cá nhân trẻ em. 
+
+Dữ liệu cá nhân trẻ em được coi là nhạy cảm và cần được bảo vệ đặc biệt, tương tự như các loại dữ liệu nhạy cảm khác, nhưng có thể yêu cầu các biện pháp bảo vệ cao hơn do tính chất đặc biệt của trẻ em.",5,5,4,5,4.75
+What are the legal regulations regarding the processing of personal data and the responsibilities of data controllers in Vietnam?,Không tìm thấy thông tin trong tài liệu.,1,1,5,1,2.0

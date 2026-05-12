@@ -1,0 +1,20 @@
+=======================================================
+Cohen's Kappa Analysis — Phase B Task B.3
+=======================================================
+Samples compared:   10
+Raw agreement:      8/10 = 80.0%
+Cohen's kappa:      0.6970
+Interpretation:     Substantial agreement ✓ — production-ready judge.
+
+── Per-pair comparison ──────────────────────
+  [ 1] human=A     judge=A     ✓
+  [ 2] human=tie   judge=tie   ✓
+  [ 3] human=B     judge=A     ✗
+  [ 4] human=B     judge=B     ✓
+  [ 5] human=tie   judge=tie   ✓
+  [ 6] human=A     judge=A     ✓
+  [ 7] human=tie   judge=tie   ✓
+  [ 8] human=B     judge=tie   ✗
+  [ 9] human=tie   judge=tie   ✓
+  [10] human=B     judge=B     ✓
+=======================================================

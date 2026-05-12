@@ -1,0 +1,11 @@
+question_id,human_winner,confidence,notes
+1,A,high,Answer A is more concise and directly addresses data subject rights in Vietnamese
+2,tie,medium,Both answers cover the same responsibilities with nearly identical content
+3,B,high,Answer A says not found in document while B actually answers the question about law enforcement
+4,B,medium,Answer B cites the regulatory authority and gives clearer transfer requirements
+5,tie,high,Both answers are essentially identical in content and quality
+6,A,medium,Answer A is slightly more precise about the role definition of data processor
+7,tie,medium,Both cover sensitive personal data types with comparable completeness
+8,B,medium,Answer B provides more detailed context about sensitive data and children's data regulations
+9,tie,high,Both answers are nearly identical differing only in the word phai which is minor
+10,B,high,Answer B correctly states the founding date is not in the provided excerpt rather than hallucinating
